@@ -9,17 +9,17 @@ The goal of this project is to analyze the NYC Airbnb Open Data (2019) dataset a
 
 ## Key Features
 
-* Full end-to-end machine learning pipeline
+* Exploratory data analysis
 
-* Data cleaning, outlier removal, and missing-value imputation
+* Outlier handling and missing-value imputation
 
-* Feature engineering for geographic, categorical, and numerical variables
+* Preprocessing of numerical and categorical features
 
-* Model comparison across Linear Regression, Random Forest, and Gradient Boosting
+* Regression model development and evaluation
 
-* Final model trained using Gradient Boosting Regressor
+* A modular training pipeline using Scikit-Learn
 
-* Saved production-ready model using Joblib
+* A saved model artifact ready for reuse in applications
 
 ## Dataset
 
@@ -89,3 +89,26 @@ nyc-airbnb-price-prediction/
 │
 └── README.md
 
+## Technologies Used
+* Python 
+
+* Pandas
+
+* NumPy
+
+* Scikit-Learn
+
+* Matplotlib
+
+* Seaborn
+
+* Jupyter Notebooks
+
+  Author
+
+Aboubacarr Ceesay
+Master’s in Data Science Graduate Student
+
+GitHub: https://github.com/aceesay94
+
+LinkedIn: https://www.linkedin.com/in/aboubacarr-ceesay94/
